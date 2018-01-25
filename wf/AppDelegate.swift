@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  wf
-//
-//  Created by Naman Gupta on 1/24/18.
-//  Copyright © 2018 Citibank. All rights reserved.
-//
+
 
 import UIKit
 
