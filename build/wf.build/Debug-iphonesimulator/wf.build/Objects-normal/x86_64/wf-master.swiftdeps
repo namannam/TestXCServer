@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "ea8f5348ed9e5e29cdcbab5c05db2709"
+build_time: [1516820613, 568224000]
+inputs:
+  "/Users/Naman/Desktop/wf/wf/ViewController.swift": [1516820613, 0]
+  "/Users/Naman/Desktop/wf/wf/AppDelegate.swift": [1516812920, 0]
